@@ -1,0 +1,1 @@
+import{P as e,g as t,h as n,j as r,u as i,z as a}from"./runtime-core.esm-bundler-C_GbXmBL.js";import{i as o,t as s}from"./QLayout-CX0F050C.js";var c=t({__name:`AuthLayout`,setup(t){return(t,c)=>{let l=e(`router-view`);return r(),i(s,{view:`hHh lpR fFf`},{default:a(()=>[n(o,null,{default:a(()=>[n(l)]),_:1})]),_:1})}}});export{c as default};

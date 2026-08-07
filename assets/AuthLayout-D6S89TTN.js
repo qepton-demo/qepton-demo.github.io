@@ -1,1 +1,0 @@
-import{b as a,c as r}from"./QLayout-DRDbBks7.js";import{d as n,aF as s,q as _,t as c,v as e,l as t}from"./index-CPfGvcpE.js";const m=n({__name:"AuthLayout",setup(u){return(p,l)=>{const o=s("router-view");return _(),c(r,{view:"hHh lpR fFf"},{default:e(()=>[t(a,null,{default:e(()=>[t(o)]),_:1})]),_:1})}}});export{m as default};

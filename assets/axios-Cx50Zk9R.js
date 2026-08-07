@@ -1,0 +1,1 @@
+import{t as e}from"./axios-BixB9Yuh.js";import{Y as t}from"./index-DbBEESmo.js";var n=e.create({baseURL:`https://api.github.com`}),r=t(({app:t})=>{t.config.globalProperties.$axios=e,t.config.globalProperties.$api=n});export{n as api,r as default};
